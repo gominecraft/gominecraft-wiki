@@ -10,6 +10,7 @@
 ## Crafting
 
 * [Basic Recipes](crafting/basic-recipes.md)
+* [Materials](crafting/materials.md)
 * [Tools](crafting/tools.md)
 * [Swords](crafting/swords.md)
 * [Axes](crafting/axes.md)
