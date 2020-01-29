@@ -6,13 +6,9 @@ description: Making basic Materials
 
 **Steel Ingot**
 
-A Steel Ingot is made in a Blast Furnace, using one Iron Ingot.
-
 ![](../.gitbook/assets/steel-ingot.png)
 
-
-
-
+A Steel Ingot is made in a Blast Furnace, using one Iron Ingot.
 
 \*\*\*\*
 
