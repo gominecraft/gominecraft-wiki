@@ -8,7 +8,7 @@ description: Making basic Materials
 
 ![](../.gitbook/assets/steel-ingot.png)
 
-A Steel Ingot is made in a Blast Furnace, using one Iron Ingot.
+A Steel Ingot is made in a Blast Furnace, using one Iron Ingot. Takes 40 seconds per ingot.
 
 \*\*\*\*
 
