@@ -11,10 +11,12 @@ Welcome. This is just a simple landing page. You'll find all the documentation t
 ```text
 Host: gominecraft.com
 Type: PvE
+
 Style:
 - Chill
 - Player-run Economy
 - Player-managed Protection
+
 Addons:
 - Custom Items
 - Custom Recipes
