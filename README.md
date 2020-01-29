@@ -12,9 +12,13 @@ Welcome. This is just a simple landing page. You'll find all the documentation t
 Host: gominecraft.com
 Type: PvE
 Style:
-- Chill/Building/Custom Mobs/Items
+- Chill
 - Player-run Economy
 - Player-managed Protection
+Addons:
+- Custom Items
+- Custom Recipes
+- Custom Monsters!
 
 Current State: Deep Alpha
 ```
