@@ -23,7 +23,7 @@ This command is used to set your home for easy return. The cost is $50 in-game c
 This command returns you to your home. It has no cost, but it does have a 300 second cooldown.
 
 ```text
-/wild, /rtp, /dwild
+/wild, /rtp, /dwild # /wild and /rtp are aliases of /dwild
 ```
 
 These commands will teleport you to a random location within the GoMinecraft World Border. [dWild](https://www.spigotmc.org/resources/dwild.73158/) was written by this server's owner.
