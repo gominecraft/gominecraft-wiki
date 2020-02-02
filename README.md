@@ -25,3 +25,5 @@ Addons:
 Current State: Deep Alpha
 ```
 
+Real URL: https://docs.gominecraft.com/
+
