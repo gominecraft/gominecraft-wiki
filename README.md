@@ -18,7 +18,8 @@ Style:
 - Player-managed Protection
 
 Addons:
-- Backpacks!
+- GriefDefender
+- Backpacks
 
 Current State: Deep Alpha
 ```
