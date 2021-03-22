@@ -9,8 +9,8 @@ Welcome. This is just a simple landing page. You'll find all the documentation t
 **Server Info:**
 
 ```text
-Host: gominecraft.com
-Type: PvE
+Host: play.gominecraft.com
+Type: PvP+PvE
 
 Style:
 - Chill
@@ -18,10 +18,10 @@ Style:
 - Player-managed Protection
 
 Addons:
-- Custom Items
-- Custom Recipes
-- Custom Monsters!
+- Backpacks!
 
 Current State: Deep Alpha
 ```
+
+Real URL: https://docs.gominecraft.com/
 
